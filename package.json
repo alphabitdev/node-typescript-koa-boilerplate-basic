@@ -28,7 +28,7 @@
     "koa-requestid": "^2.1.0",
     "koa-router": "^8.0.8",
     "moment": "^2.24.0",
-    "pino": "^5.17.0",
+    "pino": "^6.2.0",
     "reflect-metadata": "^0.1.13"
   },
   "nyc": {
@@ -57,7 +57,7 @@
     "@types/koa__cors": "^3.0.1",
     "@types/mocha": "^7.0.2",
     "@types/node": "^13.13.2",
-    "@types/pino": "^5.17.0",
+    "@types/pino": "^6.2.0",
     "@types/sinon": "^9.0.0",
     "@types/supertest": "^2.0.8",
     "chai": "^4.2.0",
