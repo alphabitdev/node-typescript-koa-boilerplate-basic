@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "description": "Basic boilerplate for Node.js development with TypeScript, Koa, koa-router, koa-helmet, @koa/cors, koa-bodyparser, koa-requestid, ESLint, Prettier, Airbnb styleguide, Mocha, Chai, supertest, sinon.js, istanbul, pino, tsc-watch",
-  "repository": "aaa",
+  "repository": "https://github.com/alphabitdev/node-typescript-koa-boilerplate-basic",
   "scripts": {
     "build": "rm -rf dist && tsc",
     "clean": "rm -rf node_modules coverage dist .nyc_output",

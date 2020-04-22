@@ -2,7 +2,7 @@
 
 Basic boilerplate for Node.js development with TypeScript, Koa, koa-router, koa-helmet, @koa/cors, koa-bodyparser, koa-requestid, ESLint, Prettier, Airbnb styleguide, Mocha, Chai, supertest, sinon.js, istanbul, pino, tsc-watch
 
-[<img alt="npm" src="https://img.shields.io/david/alphabitdev/Node-TypeScript-Koa-TypeOrm-API-Boilerplate.svg?style=flat-square">](https://david-dm.org/alphabitdev/Node-TypeScript-Koa-TypeOrm-API-Boilerplate)
+[<img alt="npm" src="https://img.shields.io/david/alphabitdev/node-typescript-koa-boilerplate-basic.svg?style=flat-square">](https://david-dm.org/alphabitdev/node-typescript-koa-boilerplate-basic)
 
 [<img alt="MIT Licence" src="https://badges.frapsoft.com/os/mit/mit.svg?v=103">](https://opensource.org/licenses/mit-license.php)
 
@@ -42,7 +42,7 @@ npm run clean       # remove all generated and node_modules
 npm run start       # start node
 npm run start:dev   # tsc-watch and start with debugger
 ```
-## Test
+> Test
 
 ```zsh
 # Test
