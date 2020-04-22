@@ -31,19 +31,6 @@
     "pino": "^6.2.0",
     "reflect-metadata": "^0.1.13"
   },
-  "nyc": {
-    "extends": "@istanbuljs/nyc-config-typescript",
-    "extension": [
-      ".ts",
-      ".tsx"
-    ],
-    "all": false,
-    "reporter": "lcov",
-    "reportdir": "./coverage",
-    "exclude": [
-      "**/*.d.ts"
-    ]
-  },
   "devDependencies": {
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
     "@types/async": "^3.2.0",
@@ -73,5 +60,18 @@
     "ts-node": "^8.9.0",
     "tsc-watch": "^4.2.3",
     "typescript": "^3.8.3"
+  },
+  "nyc": {
+    "extends": "@istanbuljs/nyc-config-typescript",
+    "extension": [
+      ".ts",
+      ".tsx"
+    ],
+    "all": false,
+    "reporter": "lcov",
+    "reportdir": "./coverage",
+    "exclude": [
+      "**/*.d.ts"
+    ]
   }
 }
