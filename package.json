@@ -56,7 +56,7 @@
     "@types/koa-router": "^7.4.0",
     "@types/koa__cors": "^3.0.1",
     "@types/mocha": "^7.0.2",
-    "@types/node": "^13.9.2",
+    "@types/node": "^13.13.2",
     "@types/pino": "^5.17.0",
     "@types/sinon": "^9.0.0",
     "@types/supertest": "^2.0.8",
