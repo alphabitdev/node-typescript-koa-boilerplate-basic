@@ -3,6 +3,7 @@
 Basic boilerplate for Node.js development with TypeScript, Koa, koa-router, koa-helmet, @koa/cors, koa-bodyparser, koa-requestid, ESLint, Prettier, Airbnb styleguide, Mocha, Chai, supertest, sinon.js, istanbul, pino, tsc-watch
 
 [<img alt="npm" src="https://img.shields.io/david/alphabitdev/node-typescript-koa-boilerplate-basic.svg?style=flat-square">](https://david-dm.org/alphabitdev/node-typescript-koa-boilerplate-basic)
+
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/591d2aec2a0148aea36aa3e5c787ffe9)](https://app.codacy.com/manual/alphabitdev/node-typescript-koa-boilerplate-basic?utm_source=github.com&utm_medium=referral&utm_content=alphabitdev/node-typescript-koa-boilerplate-basic&utm_campaign=Badge_Grade_Dashboard)
 
 
