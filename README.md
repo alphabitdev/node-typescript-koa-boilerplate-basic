@@ -6,13 +6,12 @@ Basic boilerplate for Node.js development with TypeScript, Koa, koa-router, koa-
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/591d2aec2a0148aea36aa3e5c787ffe9)](https://app.codacy.com/manual/alphabitdev/node-typescript-koa-boilerplate-basic?utm_source=github.com&utm_medium=referral&utm_content=alphabitdev/node-typescript-koa-boilerplate-basic&utm_campaign=Badge_Grade_Dashboard)
 
-
 [<img alt="MIT Licence" src="https://badges.frapsoft.com/os/mit/mit.svg?v=103">](https://opensource.org/licenses/mit-license.php)
 
 [<img alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">](https://github.com/ellerbrock/open-source-badge/)
 
 This boilerplate includes the following features:
-- Koa HTTP server with [koa-router](https://github.com/ZijianHe/koa-router), [koa-helmet](https://github.com/venables/koa-helmet#readme), [@koa/cors](https://github.com/koajs/cors), [koa-bodyparser](https://github.com/koajs/bodyparser) and [koa-requestid](https://github.com/uphold/koa-requestid/),
+-   Koa HTTP server with [koa-router](https://github.com/ZijianHe/koa-router), [koa-helmet](https://github.com/venables/koa-helmet#readme), [@koa/cors](https://github.com/koajs/cors), [koa-bodyparser](https://github.com/koajs/bodyparser) and [koa-requestid](https://github.com/uphold/koa-requestid/),
 - Error handling
 - Health module
 - Request logging with [pino](https://github.com/pinojs/pino)
