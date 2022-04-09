@@ -27,7 +27,7 @@
     "koa-helmet": "^5.2.0",
     "koa-requestid": "^2.1.0",
     "koa-router": "^8.0.8",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "pino": "^6.2.0",
     "reflect-metadata": "^0.1.13"
   },
